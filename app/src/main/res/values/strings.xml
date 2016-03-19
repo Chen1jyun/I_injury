@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">I injury</string>
+    <string name="title_activity_one_1">one_1</string>
+    <string name="title_activity_one_2">one_2</string>
+    <string name="title_activity_one_3">one_3</string>
+    <string name="title_activity_one_4">one_4</string>
+    <string name="title_activity_delete">delete</string>
+    <string name="title_activity_login_password">login_password</string>
+
+
+</resources>
